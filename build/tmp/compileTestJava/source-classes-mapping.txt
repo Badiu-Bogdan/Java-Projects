@@ -1,0 +1,64 @@
+domain/PetTest.java
+ domain.PetTest
+domain/ToyTest.java
+ domain.ToyTest
+service/AdoptionServiceTest.java
+ service.AdoptionServiceTest
+domain/validators/PetValidatorTest.java
+ domain.validators.PetValidatorTest
+repository/XML/XMLRepositoryAdoptionTest.java
+ repository.XML.XMLRepositoryAdoptionTest
+repository/DB/DBRepositoryPurchaseTest.java
+ repository.DB.DBRepositoryPurchaseTest
+domain/validators/ClientValidatorTest.java
+ domain.validators.ClientValidatorTest
+domain/validators/ToyValidatorTest.java
+ domain.validators.ToyValidatorTest
+repository/DB/DBRepositoryAdoptionTest.java
+ repository.DB.DBRepositoryAdoptionTest
+repository/DB/DBRepositoryPetTest.java
+ repository.DB.DBRepositoryPetTest
+domain/PurchaseTest.java
+ domain.PurchaseTest
+repository/DB/DBRepositoryToyTest.java
+ repository.DB.DBRepositoryToyTest
+repository/XML/XMLRepositoryPetTest.java
+ repository.XML.XMLRepositoryPetTest
+domain/validators/PurchaseValidatorTest.java
+ domain.validators.PurchaseValidatorTest
+domain/AdoptionTest.java
+ domain.AdoptionTest
+repository/XML/XMLRepositoryToyTest.java
+ repository.XML.XMLRepositoryToyTest
+domain/validators/AdoptionValidatorTest.java
+ domain.validators.AdoptionValidatorTest
+repository/DB/DBRepositoryClientTest.java
+ repository.DB.DBRepositoryClientTest
+service/PetServiceTest.java
+ service.PetServiceTest
+ui/ConsoleTest.java
+ ui.ConsoleTest
+repository/file/FileRepositoryAdoptionTest.java
+ repository.file.FileRepositoryAdoptionTest
+repository/XML/XMLRepositoryPurchaseTest.java
+ repository.XML.XMLRepositoryPurchaseTest
+service/ClientServiceTest.java
+ service.ClientServiceTest
+domain/ClientTest.java
+ domain.ClientTest
+repository/InMemoryRepositoryTest.java
+ repository.InMemoryRepositoryTest
+service/ToyServiceTest.java
+ service.ToyServiceTest
+repository/XML/XMLRepositoryClientTest.java
+ repository.XML.XMLRepositoryClientTest
+service/StoreServiceTest.java
+ service.StoreServiceTest
+repository/file/FileRepositoryClientTest.java
+ repository.file.FileRepositoryClientTest
+repository/file/FileRepositoryPetTest.java
+ repository.file.FileRepositoryPetTest
+repository/file/FileRepositoryPurchaseTest.java
+ repository.file.FileRepositoryPurchaseTest
+repository/file/FileRepositoryToyTest.java
+ repository.file.FileRepositoryToyTest

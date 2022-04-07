@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><purchases>
+    <purchase>
+        <id>1</id>
+        <serialNumber>10156</serialNumber>
+        <clientId>1</clientId>
+        <toyId>1</toyId>
+        <purchaseYear>2020</purchaseYear>
+    </purchase>
+    <purchase>
+        <id>2</id>
+        <serialNumber>10142</serialNumber>
+        <clientId>2</clientId>
+        <toyId>2</toyId>
+        <purchaseYear>2020</purchaseYear>
+    </purchase>
+    <purchase>
+        <id>3</id>
+        <serialNumber>10376</serialNumber>
+        <clientId>2</clientId>
+        <toyId>3</toyId>
+        <purchaseYear>2021</purchaseYear>
+    </purchase>
+    <purchase>
+        <id>4</id>
+        <serialNumber>56789</serialNumber>
+        <clientId>3</clientId>
+        <toyId>4</toyId>
+        <purchaseYear>2015</purchaseYear>
+    </purchase>
+    <purchase>
+        <id>5</id>
+        <serialNumber>12648</serialNumber>
+        <clientId>4</clientId>
+        <toyId>5</toyId>
+        <purchaseYear>2017</purchaseYear>
+    </purchase>
+</purchases>

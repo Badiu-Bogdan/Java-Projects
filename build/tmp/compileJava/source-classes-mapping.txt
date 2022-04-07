@@ -1,0 +1,152 @@
+service/exceptions/PetServiceException.java
+ service.exceptions.PetServiceException
+repository/XML/exceptions/XMLRepositoryAdoptionException.java
+ repository.XML.exceptions.XMLRepositoryAdoptionException
+domain/validators/exceptions/ToyValidatorException.java
+ domain.validators.exceptions.ToyValidatorException
+domain/Toy/Toy.java
+ domain.Toy.Toy
+domain/validators/Validator.java
+ domain.validators.Validator
+domain/Adoption/Adoption.java
+ domain.Adoption.Adoption
+repository/file/exceptions/FileRepositoryException.java
+ repository.file.exceptions.FileRepositoryException
+repository/XML/exceptions/XMLRepositoryPetException.java
+ repository.XML.exceptions.XMLRepositoryPetException
+service/exceptions/ServiceException.java
+ service.exceptions.ServiceException
+repository/XML/exceptions/XMLRepositoryStoreException.java
+ repository.XML.exceptions.XMLRepositoryStoreException
+repository/InMemoryRepositoryException.java
+ repository.InMemoryRepositoryException
+repository/Repository.java
+ repository.Repository
+domain/BaseEntity.java
+ domain.BaseEntity
+domain/validators/exceptions/PurchaseValidatorException.java
+ domain.validators.exceptions.PurchaseValidatorException
+repository/DB/DBRepositoryToy.java
+ repository.DB.DBRepositoryToy
+domain/Adoption/AdoptionYearComparator.java
+ domain.Adoption.AdoptionYearComparator
+repository/DB/exceptions/DBRepositoryPetException.java
+ repository.DB.exceptions.DBRepositoryPetException
+repository/RepositoryException.java
+ repository.RepositoryException
+ui/ConsoleException.java
+ ui.ConsoleException
+domain/validators/exceptions/ClientValidatorException.java
+ domain.validators.exceptions.ClientValidatorException
+service/exceptions/AdoptionServiceException.java
+ service.exceptions.AdoptionServiceException
+repository/FileRepository.java
+ repository.FileRepository
+repository/DB/DBRepositoryAdoption.java
+ repository.DB.DBRepositoryAdoption
+repository/DB/DBRepositoryPurchase.java
+ repository.DB.DBRepositoryPurchase
+repository/XML/exceptions/XMLRepositoryToyException.java
+ repository.XML.exceptions.XMLRepositoryToyException
+repository/XML/exceptions/XMLRepositoryClientException.java
+ repository.XML.exceptions.XMLRepositoryClientException
+domain/validators/exceptions/ValidatorException.java
+ domain.validators.exceptions.ValidatorException
+domain/Toy/ToyPriceComparator.java
+ domain.Toy.ToyPriceComparator
+service/exceptions/ToyServiceException.java
+ service.exceptions.ToyServiceException
+service/exceptions/StoreServiceException.java
+ service.exceptions.StoreServiceException
+service/exceptions/ClientServiceException.java
+ service.exceptions.ClientServiceException
+repository/DB/exceptions/DBRepositoryToyException.java
+ repository.DB.exceptions.DBRepositoryToyException
+repository/XML/exceptions/XMLRepositoryException.java
+ repository.XML.exceptions.XMLRepositoryException
+domain/validators/exceptions/AdoptionValidatorException.java
+ domain.validators.exceptions.AdoptionValidatorException
+domain/Purchase/PurchaseYearComparator.java
+ domain.Purchase.PurchaseYearComparator
+domain/Toy/ToyWeightComparator.java
+ domain.Toy.ToyWeightComparator
+domain/validators/exceptions/PetValidatorException.java
+ domain.validators.exceptions.PetValidatorException
+repository/file/exceptions/FileRepositoryPetException.java
+ repository.file.exceptions.FileRepositoryPetException
+domain/Purchase/Purchase.java
+ domain.Purchase.Purchase
+repository/DB/exceptions/DBRepositoryAdoptionException.java
+ repository.DB.exceptions.DBRepositoryAdoptionException
+repository/DB/exceptions/DBRepositoryPurchaseException.java
+ repository.DB.exceptions.DBRepositoryPurchaseException
+repository/file/FileRepositoryStore.java
+ repository.file.FileRepositoryStore
+repository/file/exceptions/FileRepositoryClientException.java
+ repository.file.exceptions.FileRepositoryClientException
+repository/file/FileRepositoryAdoption.java
+ repository.file.FileRepositoryAdoption
+repository/file/exceptions/FileRepositoryToyException.java
+ repository.file.exceptions.FileRepositoryToyException
+repository/file/FileRepository.java
+ repository.file.FileRepository
+repository/file/FileRepositoryToy.java
+ repository.file.FileRepositoryToy
+repository/file/exceptions/FileRepositoryAdoptionException.java
+ repository.file.exceptions.FileRepositoryAdoptionException
+repository/DB/exceptions/DBRepositoryClientException.java
+ repository.DB.exceptions.DBRepositoryClientException
+repository/file/exceptions/FileRepositoryStoreException.java
+ repository.file.exceptions.FileRepositoryStoreException
+repository/DB/exceptions/DBRepositoryException.java
+ repository.DB.exceptions.DBRepositoryException
+repository/XML/XMLRepositoryToy.java
+ repository.XML.XMLRepositoryToy
+service/ToyService.java
+ service.ToyService
+domain/Pet/PetBirthYearComparator.java
+ domain.Pet.PetBirthYearComparator
+repository/DB/DBRepositoryClient.java
+ repository.DB.DBRepositoryClient
+service/AdoptionService.java
+ service.AdoptionService
+repository/DB/DBRepositoryPet.java
+ repository.DB.DBRepositoryPet
+domain/Client/Client.java
+ domain.Client.Client
+repository/file/FileRepositoryPet.java
+ repository.file.FileRepositoryPet
+repository/XML/XMLRepositoryAdoption.java
+ repository.XML.XMLRepositoryAdoption
+repository/XML/XMLRepositoryStore.java
+ repository.XML.XMLRepositoryStore
+domain/validators/PetValidator.java
+ domain.validators.PetValidator
+service/PetService.java
+ service.PetService
+domain/validators/ClientValidator.java
+ domain.validators.ClientValidator
+domain/Pet/Pet.java
+ domain.Pet.Pet
+domain/validators/PurchaseValidator.java
+ domain.validators.PurchaseValidator
+domain/validators/ToyValidator.java
+ domain.validators.ToyValidator
+repository/InMemoryRepository.java
+ repository.InMemoryRepository
+domain/validators/AdoptionValidator.java
+ domain.validators.AdoptionValidator
+repository/file/FileRepositoryClient.java
+ repository.file.FileRepositoryClient
+repository/XML/XMLRepositoryClient.java
+ repository.XML.XMLRepositoryClient
+service/StoreService.java
+ service.StoreService
+service/ClientService.java
+ service.ClientService
+repository/XML/XMLRepositoryPet.java
+ repository.XML.XMLRepositoryPet
+Main.java
+ Main
+ui/Console.java
+ ui.Console

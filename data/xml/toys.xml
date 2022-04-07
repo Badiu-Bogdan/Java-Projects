@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><toys>
+    <toy>
+        <id>1</id>
+        <serialNumber>10233</serialNumber>
+        <name>Toy Bone</name>
+        <weight>200</weight>
+        <material>plastic</material>
+        <price>3.99</price>
+    </toy>
+    <toy>
+        <id>2</id>
+        <serialNumber>10402</serialNumber>
+        <name>Latex Hen</name>
+        <weight>150</weight>
+        <material>latex</material>
+        <price>5.99</price>
+    </toy>
+    <toy>
+        <id>3</id>
+        <serialNumber>20555</serialNumber>
+        <name>Happy Sausage</name>
+        <weight>300</weight>
+        <material>plastic</material>
+        <price>6.99</price>
+    </toy>
+    <toy>
+        <id>4</id>
+        <serialNumber>10009</serialNumber>
+        <name>Cat Stretcher</name>
+        <weight>450</weight>
+        <material>wood</material>
+        <price>17.99</price>
+    </toy>
+    <toy>
+        <id>5</id>
+        <serialNumber>10178</serialNumber>
+        <name>Yellow Football</name>
+        <weight>200</weight>
+        <material>plastic</material>
+        <price>5.99</price>
+    </toy>
+<toy><id>6</id><serialNumber>6666</serialNumber><name>asdd</name><weight>290</weight><material>plastic</material><price>3.99</price></toy></toys>

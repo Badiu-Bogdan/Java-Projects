@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.file.FileRepositoryAdoptionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-03-16T17:33:41" hostname="DESKTOP-E32OLO8" time="0.111">
+  <properties/>
+  <testcase name="testGetStringFromAdoption()" classname="repository.file.FileRepositoryAdoptionTest" time="0.047"/>
+  <testcase name="testFindAll()" classname="repository.file.FileRepositoryAdoptionTest" time="0.02"/>
+  <testcase name="testFindOne()" classname="repository.file.FileRepositoryAdoptionTest" time="0.005"/>
+  <testcase name="testSave()" classname="repository.file.FileRepositoryAdoptionTest" time="0.012"/>
+  <testcase name="testReadFile()" classname="repository.file.FileRepositoryAdoptionTest" time="0.001"/>
+  <testcase name="testSaveToFile()" classname="repository.file.FileRepositoryAdoptionTest" time="0.002"/>
+  <testcase name="testGetFileName()" classname="repository.file.FileRepositoryAdoptionTest" time="0.002"/>
+  <testcase name="setFileName()" classname="repository.file.FileRepositoryAdoptionTest" time="0.001"/>
+  <testcase name="testDelete()" classname="repository.file.FileRepositoryAdoptionTest" time="0.006"/>
+  <testcase name="testUpdate()" classname="repository.file.FileRepositoryAdoptionTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

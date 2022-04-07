@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.file.FileRepositoryPurchaseTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-03-16T17:33:41" hostname="DESKTOP-E32OLO8" time="0.077">
+  <properties/>
+  <testcase name="testFindAll()" classname="repository.file.FileRepositoryPurchaseTest" time="0.023"/>
+  <testcase name="testFindOne()" classname="repository.file.FileRepositoryPurchaseTest" time="0.006"/>
+  <testcase name="testSave()" classname="repository.file.FileRepositoryPurchaseTest" time="0.015"/>
+  <testcase name="testReadFile()" classname="repository.file.FileRepositoryPurchaseTest" time="0.001"/>
+  <testcase name="testSaveToFile()" classname="repository.file.FileRepositoryPurchaseTest" time="0.003"/>
+  <testcase name="testGetFileName()" classname="repository.file.FileRepositoryPurchaseTest" time="0.002"/>
+  <testcase name="testGetStringFromPurchase()" classname="repository.file.FileRepositoryPurchaseTest" time="0.002"/>
+  <testcase name="setFileName()" classname="repository.file.FileRepositoryPurchaseTest" time="0.002"/>
+  <testcase name="testDelete()" classname="repository.file.FileRepositoryPurchaseTest" time="0.006"/>
+  <testcase name="testUpdate()" classname="repository.file.FileRepositoryPurchaseTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

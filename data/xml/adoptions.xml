@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><adoptions>
+    <adoption>
+        <id>1</id>
+        <serialNumber>10441</serialNumber>
+        <clientId>1</clientId>
+        <petId>1</petId>
+        <adoptionYear>2020</adoptionYear>
+    </adoption>
+    <adoption>
+        <id>2</id>
+        <serialNumber>10429</serialNumber>
+        <clientId>2</clientId>
+        <petId>2</petId>
+        <adoptionYear>2021</adoptionYear>
+    </adoption>
+    <adoption>
+        <id>3</id>
+        <serialNumber>10117</serialNumber>
+        <clientId>2</clientId>
+        <petId>3</petId>
+        <adoptionYear>2021</adoptionYear>
+    </adoption>
+    <adoption>
+        <id>4</id>
+        <serialNumber>12345</serialNumber>
+        <clientId>3</clientId>
+        <petId>4petId>
+        <adoptionYear>2019</adoptionYear>
+    </adoption>
+    <adoption>
+        <id>5</id>
+        <serialNumber>56788</serialNumber>
+        <clientId>4</clientId>
+        <petId>5</petId>
+        <adoptionYear>2019</adoptionYear>
+    </adoption>
+</adoptions>

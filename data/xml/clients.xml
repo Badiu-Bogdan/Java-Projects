@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clients>
+    <client>
+        <id>1</id>
+        <serialNumber>10542</serialNumber>
+        <name>Prunariu Dumitru</name>
+        <address>Street 1</address>
+        <yearOfRegistration>2012</yearOfRegistration>
+    </client>
+    <client>
+        <id>2</id>
+        <serialNumber>10322</serialNumber>
+        <name>Vadim Tudor</name>
+        <address>Street 2</address>
+        <yearOfRegistration>2016</yearOfRegistration>
+    </client>
+    <client>
+        <id>3</id>
+        <serialNumber>10532</serialNumber>
+        <name>Marin Preda</name>
+        <address>Street 3</address>
+        <yearOfRegistration>2019</yearOfRegistration>
+    </client>
+    <client>
+        <id>4</id>
+        <serialNumber>10553</serialNumber>
+        <name>Tora Vasilescu</name>
+        <address>Street 4</address>
+        <yearOfRegistration>2020</yearOfRegistration>
+    </client>
+    <client>
+        <id>4</id>
+        <serialNumber>10553</serialNumber>
+        <name>Tora Vasilescu</name>
+        <address>Street 4</address>
+        <yearOfRegistration>2020</yearOfRegistration>
+    </client>
+    
+</clients>
